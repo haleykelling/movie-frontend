@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+p {
+    display: inline;
+}
+
+img {
+    width: 200px;
+    margin-bottom: 20px;
+}
